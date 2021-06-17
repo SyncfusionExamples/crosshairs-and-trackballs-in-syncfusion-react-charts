@@ -5,6 +5,7 @@ A quick-start react project that helps you to learn how to enable crosshairs and
 Documentation: https://ej2.syncfusion.com/react/documentation/chart/cross-hair-and-track-ball
 
 Online examples: 
+
 https://ej2.syncfusion.com/react/demos/#/material/chart/crosshair
 https://ej2.syncfusion.com/react/demos/#/material/chart/trackball
 
