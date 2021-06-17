@@ -7,6 +7,7 @@ Documentation: https://ej2.syncfusion.com/react/documentation/chart/cross-hair-a
 Online examples: 
 
 https://ej2.syncfusion.com/react/demos/#/material/chart/crosshair
+
 https://ej2.syncfusion.com/react/demos/#/material/chart/trackball
 
 ## Project prerequisites
